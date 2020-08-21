@@ -4,7 +4,7 @@ Through the years, research and surveys have proven that the number of people us
 #### Search Bar
 ![alt text](https://github.com/MNISAR/WebMD_Data_Visualization/blob/master/.gitData/search_bar.png?raw=true)
 #### Bipartite Graph
-![alt text](https://github.com/MNISAR/WebMD_Data_Visualization/blob/master/.gitData/bi_pertite_graph.png?raw=true)
+![alt text](https://github.com/MNISAR/WebMD_Data_Visualization/blob/master/.gitData/bi_partite_graph.png?raw=true)
 
 #### Human Anatomy Figure
 ![alt text](https://github.com/MNISAR/WebMD_Data_Visualization/blob/master/.gitData/human_anatomy_figure.png?raw=true)
